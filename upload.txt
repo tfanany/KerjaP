@@ -1,0 +1,1014 @@
+
+<!-- Global site tag (gtag.js) - Google Analytics 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146156606-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146156606-1');
+</script>
+
+-->
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<title>Penerimaan Mahasiswa Baru (PMB) ITDA Yogyakarta</title>
+
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Penerimaan Mahasiswa Baru PMB ITDA Yogyakarta">
+	<meta name="keywords" content="pmb, pmbstta, stta, penerimaan mahasiswa baru, mahasiswa, kampus, kedirgantaraan, penerbangan, pilot, aeronautika, mesin
+	, informatika, industri, elektro, maba">
+	<meta name="author" content="ITDA Yogyakarta">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<!-- Web Fonts -->
+	<link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
+
+	<!-- CSS Global Compulsory -->
+	<link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+
+	<!-- CSS Header and Footer -->
+	<link rel="stylesheet" href="assets/css/headers/header-default.css">
+	<link rel="stylesheet" href="assets/css/footers/footer-v1.css">
+
+	<!-- CSS Implementing Plugins -->
+	<link rel="stylesheet" href="assets/plugins/animate.css">
+	<link rel="stylesheet" href="assets/plugins/line-icons/line-icons.css">
+	<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/plugins/fancybox/source/jquery.fancybox.css">
+	<link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings.css" type="text/css" media="screen">
+	<!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings-ie8.css" type="text/css" media="screen"><![endif]-->
+
+<!-- CSS Page Style -->
+	<link rel="stylesheet" href="assets/css/pages/pricing/pricing_v1.css">
+	<link rel="stylesheet" href="assets/css/pages/pricing/pricing_v2.css">
+	<link rel="stylesheet" href="assets/css/pages/pricing/pricing_v3.css">
+	<link rel="stylesheet" href="assets/css/pages/pricing/pricing_v4.css">
+	<link rel="stylesheet" href="assets/css/pages/pricing/pricing_v5.css">
+	<!-- CSS Page Style -->
+	<link rel="stylesheet" href="assets/css/pages/page_pricing.css">
+	<link rel="stylesheet" href="assets/css/pages/profile.css">
+	<link rel="stylesheet" href="assets/css/pages/page_contact.css">
+
+	<link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+
+	<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+	<link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
+
+	<!-- CSS Pages Style -->
+	<link rel="stylesheet" href="assets/css/pages/page_one.css">
+
+	<!-- CSS Theme -->
+	<link rel="stylesheet" href="assets/css/theme-colors/default.css" id="style_color">
+	<link rel="stylesheet" href="assets/css/theme-skins/dark.css">
+
+	<!-- CSS Customization -->
+	<link rel="stylesheet" href="assets/css/custom.css">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RE4065XHWM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RE4065XHWM');
+</script>
+
+</head>
+
+<body>
+
+
+
+	<div class="wrapper">
+		
+		<!--=== Header ===-->
+		<div class="header">
+			<div class="container">
+				<!-- Logo -->
+				<a class="logo" href="index.php">
+					<!-- <img src="assets/img/logo1-default.png" alt="Logo"> -->
+					&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/logo/logo_pmb.png" alt="Logo" height="50">
+				</a>
+				<!-- End Logo -->
+
+				<!-- Topbar -->
+				<div class="topbar">
+					<ul class="loginbar pull-right">
+						
+						
+						<li><a href="?view=form_daftar">Daftar</a></li>
+						<li class="topbar-devider"></li>
+						<li><a href="?view=login">Login</a></li>
+						<li class="topbar-devider"></li>
+						<li class="hoverSelector">
+							
+							<a>Languages</a>
+							<ul class="languages hoverSelectorBlock">
+								<li class="active">
+									<a href="#">Indonesia <i class="fa fa-check"></i></a>
+								</li>
+								
+							</ul>
+							<i class="fa fa-globe"></i>
+						</li>
+					</ul>
+				</div>
+				<!-- End Topbar -->
+
+				<!-- Toggle get grouped for better mobile display -->
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="fa fa-bars"></span>
+				</button>
+				<!-- End Toggle -->
+</div><!--/end container--><div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
+				<div class="container">
+					<ul class="nav navbar-nav">
+						<!-- Home -->
+						<li class="active">
+							<a href="index.php?view=home">
+								Beranda
+							</a>
+						</li>
+						<li class="dropdown ">
+							<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+								Info Pendaftaran
+							</a>
+							<ul class="dropdown-menu">
+								<li ><a href="index.php?view=persyaratan">Persyaratan Pendaftaran</a></li>
+								<li ><a href="index.php?view=jadwal">Jadwal Pendaftaran</a></li>
+								<li ><a href="index.php?view=prosedur">Prosedur Pendaftaran</a></li>
+
+								<li><a href="index.php?view=download">Download Brosur</a></li>
+
+								<!-- One Page -->
+								<li class="dropdown-submenu">
+									<a href="javascript:void(0);">Informasi Umum</a>
+									<ul class="dropdown-menu">
+										<li><a href="index.php?view=biaya">Biaya Pendidikan</a></li>
+										<li><a href="index.php?view=beasiswa">Daftar Beasiswa</a></li>
+										<li><a href="index.php?view=ukm">Daftar Unit Kegiatan Mahasiswa</a></li>
+									</ul>
+								</li>
+								<!-- End One Page -->
+
+							
+							</ul>
+						</li>
+
+						<li class="dropdown ">
+							<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+								Jalur Pendaftaran
+							</a>
+							<ul class="dropdown-menu">
+								
+
+								
+								<li class="dropdown-submenu">
+									<a href="javascript:void(0);">Program Reguler</a>
+									<ul class="dropdown-menu">
+										<li><a target="_blank" href="index.php?view=reguler">- Jalur Reguler</a></li>
+										<li><a target="_blank" href="index.php?view=reguler">- Jalur Prestasi</a></li>
+										<li><a target="_blank" href="index.php?view=reguler">- Jalur KIP-K</a></li>
+										<li><a target="_blank" href="index.php?view=reguler">- Jalur UTBK</a></li>
+									</ul>
+								</li> 
+
+								<li ><a href="index.php?view=alih_pt">Program Alih Perguruan Tinggi</a></li>
+								<li ><a href="index.php?view=non_reguler">Program Non-reguler</a></li>
+								<li><a href="index.php?view=alih_jalur">Program Alih Jalur</a></li>
+								<!-- End One Page -->
+
+							
+							</ul>
+						</li>
+
+						
+
+						<li>
+							<a href="index.php?view=pengumuman">
+								Pengumuman
+							</a>
+						</li>
+
+
+
+						<li>
+							<a href="index.php?view=kontak_kami">
+								KONTAK kAMI
+							</a>
+						</li>
+
+						<!-- Search Block -->
+						<li>
+							<i class="search fa fa-search search-btn"></i>
+							<div class="search-open">
+								<div class="input-group animated fadeInDown">
+									<input type="text" class="form-control" placeholder="Search">
+									<span class="input-group-btn">
+										<button class="btn-u" type="button">Go</button>
+									</span>
+								</div>
+							</div>
+						</li>
+						<!-- End Search Block -->
+					</ul>
+				</div><!--/end container-->
+			</div><!--/navbar-collapse-->
+		
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			
+		</div>
+
+<!-- Button trigger modal -->
+
+
+		<!--=== End Header ===-->
+		<!-- Conten Part -->
+
+		
+
+        <!--=== Profile ===-->
+        <div class="container content profile">
+            <div class="row">
+                <!--Left Sidebar-->
+                
+<div class="col-md-2 md-margin-bottom-40">
+					<img class="img-responsive profile-img margin-bottom-20" src="uploads/" alt="">
+
+					<ul class="list-group sidebar-nav-v1 margin-bottom-40" id="sidebar-nav-1">
+						<li class="list-group-item active">
+							<a href="?view=user_home"><i class="fa fa-bar-chart-o"></i> Status</a>
+						</li>
+						<li class="list-group-item">
+							<a href="?view=user_profil"><i class="fa fa-user"></i> Data Diri</a>
+						</li>
+						<li class="list-group-item">
+							<a href="?view=user_upload"><i class="fa fa-group"></i> Form Upload</a>
+						</li>						
+						<li class="list-group-item">
+							<a href="?view=user_ubah_password"><i class="fa fa-cog"></i> Ubah Password</a>
+						</li>
+						<li class="list-group-item">
+							<a href="logout.php"><i class="fa fa-history"></i> Logout</a>
+						</li>
+					</ul>
+
+					<!-- <div class="panel-heading-v2 overflow-h">
+						<h2 class="heading-xs pull-left"><i class="fa fa-bar-chart-o"></i> Task Progress</h2>
+						<a href="#"><i class="fa fa-cog pull-right"></i></a>
+					</div>
+					<h3 class="heading-xs">Web Design <span class="pull-right">92%</span></h3>
+					<div class="progress progress-u progress-xxs">
+						<div style="width: 92%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="92" role="progressbar" class="progress-bar progress-bar-u">
+						</div>
+					</div>
+					<h3 class="heading-xs">Unify Project <span class="pull-right">85%</span></h3>
+					<div class="progress progress-u progress-xxs">
+						<div style="width: 85%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="85" role="progressbar" class="progress-bar progress-bar-blue">
+						</div>
+					</div>
+					<h3 class="heading-xs">Sony Corporation <span class="pull-right">64%</span></h3>
+					<div class="progress progress-u progress-xxs margin-bottom-40">
+						<div style="width: 64%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="64" role="progressbar" class="progress-bar progress-bar-dark">
+						</div>
+					</div>
+ -->
+					<hr>
+
+
+					<div class="margin-bottom-50"></div>
+
+					<!--Datepicker-->
+					<form action="#" id="sky-form2" class="sky-form">
+						<div id="inline-start"></div>
+					</form>
+					<!--End Datepicker-->
+				</div>                <!--End Left Sidebar-->
+
+                <!-- Profile Content -->
+                <div class="col-md-10">
+                    <div class="profile-body margin-bottom-20">
+                        <div class="tab-v1">
+                            <ul class="nav nav-justified nav-tabs">
+                                <li class="active"><a data-toggle="tab" href="#upload">Form Upload</a></li>
+                                <li><a data-toggle="tab" href="#"> </a></li>
+                                <li><a data-toggle="tab" href="#"> </a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div id="upload" class="profile-edit tab-pane fade in active">
+                                    <h2 class="heading-md">Halaman Upload Berkas Persyaratan.</h2>
+                                    <p>Silahkan upload file berkas persyaratan dibawah ini, <strong>(format .JPG .jpg .jpeg dengan size max 500 Kb per file </strong>)  .</p>
+					  <p>Jika dalam satu "Kategori Berkas" terdiri dari beberapa berkas, ketika memilih file saat upload gunakan tombol <strong>Ctrl</strong> (ditekan bersamaan dengan memilih file)  .</p><br>
+                                    
+					                                    
+
+                                    <div class="table-search-v2">
+                                        <div class="table-responsive">
+                                            <table class="table table-bordered table-striped">
+                                                <thead>
+                                                    <tr>
+                                                    
+                                                        <th class="hidden-sm" width="50%">Keterangan Berkas</th>
+                                                        <th width="10%">Status</th> 
+                                                        <th width="20%">Gambar</th>                                                 
+                                                        <th width="20%">Aksi</th>
+                                                        
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                                                                    
+                                                            
+                                                        
+                                                        
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">1. Bukti Pembayaran Pendaftaran (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Bukti Pembayaran Pendaftaran">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">2. Foto (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Foto">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">3. Kartu Identitas (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Kartu Identitas">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">4. Scan Raport Kelas X Semester 1 (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Scan Raport Kelas X Semester 1">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">5. Scan Raport Kelas X Semester 2 (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Scan Raport Kelas X Semester 2">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">6. Scan Raport Kelas XI Semester 1 (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Scan Raport Kelas XI Semester 1">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">7. Scan Raport Kelas XI Semester 2 (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Scan Raport Kelas XI Semester 2">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">8. Scan Piagam Prestasi (jika ada) (TAMBAHAN )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Scan Piagam Prestasi (jika ada)">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">9. Akta Kelahiran (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Akta Kelahiran">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">10. Kartu Keluarga (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Kartu Keluarga">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">11. Scan Ijazah SMA atau SMP (WAJIB )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Scan Ijazah SMA atau SMP">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                                                                <tr>  
+                                                <td class="td-width" width="30%">
+                                                            <strong><a href="#">12. Scan Sertifikat UTBK (WAJIB bagi pendaftar Jalur UTBK)  (TAMBAHAN )</a></strong>
+                                                            
+                                                        </td>
+
+                                                                                                    
+                                                        <td width="20%">
+                                                            <span class="label label-default">Kosong</span>                                                                                                                        
+                                                        </td>
+                                                        <td width="30%">
+                                                            <a href="uploads/A" target="BLINK"> <img class="rounded-x" src="uploads/A" alt=""></a>                                                            
+                                                            
+                                                        </td>
+                                                        <td width="20%">
+                                                            <ul class="list-inline s-icons">
+                                                                                                                                    <form action="index.php?view=user_upload&aksi=upload_berkas" method="post" enctype="multipart/form-data">
+                                                                    <li>
+                                                                        <input type="file" name="file[]" multiple><br>
+                                                                    </li>
+                                                                    <li>
+                                                                        <input type="hidden" name="tipe_dokumen" value="Scan Sertifikat UTBK (WAJIB bagi pendaftar Jalur UTBK) ">
+
+                                                                        <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Upload Berkas" href="#">
+                                                                            <button type="submit" name="upload" value="Upload" class="btn btn-primary btn-xs">
+                                                                              <span class="glyphicon glyphicon-open" aria-hidden="true"></span> Upload
+                                                                            </button>
+                                                                        </a>
+                                                                        
+
+                                                                    </li>
+
+                                                                    </form>
+
+                                                                                                                                
+                                                                
+                                                            </ul>
+                                                            
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                
+                                                    
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                    
+                                    <hr>
+                                    </dl>
+                                    <button type="button" class="btn-u btn-u-default">Cancel</button>
+                                    <button type="button" class="btn-u">Save Changes</button>
+                                </div>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- End Profile Content -->
+            </div><!--/end row-->
+        </div>
+        <!--=== End Profile ===-->
+
+		
+		<!-- End Content Part -->
+
+		
+		<!--=== Footer Version 1 ===-->
+		<div class="footer-v1">
+			<div class="footer">
+				<div class="container">
+					<div class="row">
+						<!-- About -->
+						<div class="col-md-3 md-margin-bottom-40">
+							<a href="index.html"><img id="logo-footer" class="footer-logo" src="img/logo/logo_pmb1.png" alt=""></a>
+							<p>Portal PMB ITDA ini merupakan portal yang digunakan sebagai media pendaftaran mahasiswa baru ITDA..</p>
+							
+						</div><!--/col-md-3-->
+						<!-- End About -->
+
+						<!-- Latest -->
+						<div class="col-md-3 md-margin-bottom-40">
+							<div class="posts">
+								<div class="headline"><h2>Pengumuman</h2></div>
+								<ul class="list-unstyled latest-list">
+									<li>
+										<!-- <a href="?#">Pembukaan Penerimaan Mahasiswa Baru TA 2019/2020</a>
+										<small>Jan 1, 2018</small> -->
+									</li>
+									
+									
+									
+								</ul>
+							</div>
+						</div><!--/col-md-3-->
+						<!-- End Latest -->
+
+						<!-- Link List -->
+						<div class="col-md-3 md-margin-bottom-40">
+							<div class="headline"><h2>Info Pendaftaran</h2></div>
+							<ul class="list-unstyled link-list">
+								<li><a href="?view=persyaratan">Persyaratan Pendaftaran</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="?view=jadwal">Jadwal Pendaftaran</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="?view=prosedur">Prosedur Pendaftaran</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="?view=biaya">Biaya Perkuliahan</a><i class="fa fa-angle-right"></i></li>
+								<li><a href="?view=download">Link Download</a><i class="fa fa-angle-right"></i></li>
+							</ul>
+						</div><!--/col-md-3-->
+						<!-- End Link List -->
+
+						<!-- Address -->
+						<div class="col-md-3 map-img md-margin-bottom-40">
+							<div class="headline"><h2>Kontak Kami</h2></div>
+							<address class="md-margin-bottom-40">
+								Jalan Janti Blok-R Lanud Adisutjipto <br />
+								Yogyakarta, Indonesia <br />
+								Phone:  0878 5866 7788 (TELP/SMS/WA) <br />
+								Fax: (0274) 451 263 <br />
+								Email: <a href="mailto:pmb@itda.ac.id" class="">pmb@itda.ac.id</a>
+							</address>
+						</div><!--/col-md-3-->
+						<!-- End Address -->
+					</div>
+				</div>
+			</div><!--/footer-->
+
+			<div class="copyright">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<p>
+								2021 &copy; All Rights Reserved.
+								<a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+							</p>
+						</div>
+
+						<!-- Social Links -->
+						<div class="col-md-6">
+							<ul class="footer-socials list-inline">
+								<li>
+									<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+								</li>
+								<li>
+									<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Skype">
+										<i class="fa fa-skype"></i>
+									</a>
+								</li>
+								<li>
+									<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Google Plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+								</li>
+								<li>
+									<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</li>
+								<li>
+									<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Pinterest">
+										<i class="fa fa-pinterest"></i>
+									</a>
+								</li>
+								<li>
+									<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+								</li>
+								<li>
+									<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Dribbble">
+										<i class="fa fa-dribbble"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- End Social Links -->
+					</div>
+				</div>
+			</div><!--/copyright-->
+		</div>
+		<!--=== End Footer Version 1 ===-->	</div><!--/wrapper-->
+
+	
+
+	<!-- JS Global Compulsory -->
+<script type="text/javascript" src="assets/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="assets/plugins/smoothScroll.js"></script>
+<script type="text/javascript" src="assets/plugins/flexslider/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<!-- JS Customization -->
+<script type="text/javascript" src="assets/js/custom.js"></script>
+<!-- JS Page Level -->
+<script type="text/javascript" src="assets/js/app.js"></script>
+<script type="text/javascript" src="assets/js/plugins/fancy-box.js"></script>
+<script type="text/javascript" src="assets/js/plugins/style-switcher.js"></script>
+<script type="text/javascript" src="assets/js/plugins/revolution-slider.js"></script>
+
+	<script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>
+	<script type="text/javascript" src="assets/js/plugins/owl-recent-works.js"></script>
+	<script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+
+
+
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		App.init();
+		FancyBox.initFancybox();
+		StyleSwitcher.initStyleSwitcher();
+		RevolutionSlider.initRSfullWidth();
+	});
+</script>
+<!--[if lt IE 9]>
+	<script src="assets/plugins/respond.js"></script>
+	<script src="assets/plugins/html5shiv.js"></script>
+	<script src="assets/plugins/placeholder-IE-fixes.js"></script>
+	<![endif]-->
+
+	</body>
+	</html>
